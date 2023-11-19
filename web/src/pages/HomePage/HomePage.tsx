@@ -138,7 +138,7 @@ export default function Example() {
                 </div>
                 <div className="mt-6 sm:max-w-xl">
                   <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-                    Issue management for growing teams
+                    Big dreams of big fire trucks
                   </h1>
                   <p className="mt-6 text-xl text-gray-500">
                     Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure
