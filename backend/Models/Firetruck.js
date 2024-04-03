@@ -21,7 +21,6 @@ let firetruckSchema = new Schema({
   },
   aerial : {
     type: String
-  },
   }
 }, {
     collection: 'firetrucks'
