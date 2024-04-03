@@ -1,5 +1,6 @@
 const express = require('express');
 const router = express.Router();
+const mongoose = require('mongoose');
 const Firetruck = require('../models/Firetruck');
 
 // Create a new firetruck
