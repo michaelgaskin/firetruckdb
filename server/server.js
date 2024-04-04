@@ -9,3 +9,7 @@ const connection = mongoose.connection;
 connection.once('open', () => {
   console.log('MongoDB database connection established successfully');
 });
+
+const fireTruckRoutes = require('./routes/fireTruckRoutes');
+
+app.use('/api/firetrucks', fireTruckRoutes);
